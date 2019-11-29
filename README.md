@@ -1,0 +1,1 @@
+# Japanese-Hiragana-English-Translator-Using-Tesseract-OCR
